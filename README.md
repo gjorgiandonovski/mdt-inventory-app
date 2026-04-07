@@ -19,7 +19,6 @@ Production-oriented Flutter application for inventory management, issue tracking
 - [Optional Node Backend](#optional-node-backend)
 - [Developer Workflow](#developer-workflow)
 - [Troubleshooting](#troubleshooting)
-- [Roadmap](#roadmap)
 
 ## Product Summary
 
@@ -320,14 +319,3 @@ Recommended conventions:
   Start app with `--dart-define=GEMINI_API_KEY=...`.
 - iOS/macOS pod issues:
   Run `pod install` in the corresponding `ios` or `macos` folder.
-
-## Roadmap
-
-- Add charts dashboard for trends over time
-- Add offline cache strategy for inventory reads
-- Add structured Firestore security rules documentation
-- Add CI pipeline for analyze/test/build checks
-
-## License
-
-This repository currently has no OSS license file. Treat it as private/internal unless a license is explicitly added.
