@@ -1,0 +1,40 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "mdt-inventory-a7064",
+          "appId": "1:71931044180:android:92ac522d720f0bdf8628c1",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "mdt-inventory-a7064",
+          "appId": "1:71931044180:ios:ed9bb8a7275159488628c1",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "mdt-inventory-a7064",
+          "appId": "1:71931044180:ios:ed9bb8a7275159488628c1",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mdt-inventory-a7064",
+          "configurations": {
+            "android": "1:71931044180:android:92ac522d720f0bdf8628c1",
+            "ios": "1:71931044180:ios:ed9bb8a7275159488628c1",
+            "macos": "1:71931044180:ios:ed9bb8a7275159488628c1",
+            "web": "1:71931044180:web:9c9202fd737838108628c1"
+          }
+        }
+      }
+    }
+  }
+}
